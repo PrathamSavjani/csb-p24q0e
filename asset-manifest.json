@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-p24q0e/static/css/main.e716b8ec.chunk.css",
+    "main.js": "https://.github.io/csb-p24q0e/static/js/main.75e4fdc5.chunk.js",
+    "main.js.map": "https://.github.io/csb-p24q0e/static/js/main.75e4fdc5.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-p24q0e/static/js/runtime-main.0907c1aa.js",
+    "runtime-main.js.map": "https://.github.io/csb-p24q0e/static/js/runtime-main.0907c1aa.js.map",
+    "static/js/2.e9f1c8ab.chunk.js": "https://.github.io/csb-p24q0e/static/js/2.e9f1c8ab.chunk.js",
+    "static/js/2.e9f1c8ab.chunk.js.map": "https://.github.io/csb-p24q0e/static/js/2.e9f1c8ab.chunk.js.map",
+    "index.html": "https://.github.io/csb-p24q0e/index.html",
+    "static/css/main.e716b8ec.chunk.css.map": "https://.github.io/csb-p24q0e/static/css/main.e716b8ec.chunk.css.map",
+    "static/js/2.e9f1c8ab.chunk.js.LICENSE.txt": "https://.github.io/csb-p24q0e/static/js/2.e9f1c8ab.chunk.js.LICENSE.txt",
+    "static/media/react-native-UX-design.7f79a0db.gif": "https://.github.io/csb-p24q0e/static/media/react-native-UX-design.7f79a0db.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0907c1aa.js",
+    "static/js/2.e9f1c8ab.chunk.js",
+    "static/css/main.e716b8ec.chunk.css",
+    "static/js/main.75e4fdc5.chunk.js"
+  ]
+}
